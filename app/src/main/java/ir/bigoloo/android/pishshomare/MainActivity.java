@@ -28,6 +28,7 @@ public class MainActivity extends Activity {
         webView.setScrollBarStyle(View.SCROLLBARS_INSIDE_OVERLAY);
         webView.loadUrl(getString(R.string.pishshomare_url));
 
+
     }
 
     @Override
